@@ -1,0 +1,19 @@
+{
+    "name": "gavran/mega-hamster-com",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gavran Benedikt",
+            "email": "6038@htl.rennweg.at"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Gavran\\MegaHamsterCom\\": "Classes/"
+        }
+    },
+
+    "require": {}
+}
+
